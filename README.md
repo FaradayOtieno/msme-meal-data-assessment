@@ -52,6 +52,18 @@ The median reported revenue was KES 32,750 among businesses recorded as having r
 
 These are descriptive associations, not evidence that training caused improved business performance.
 
+## Supporting Analysis Outputs
+
+The repository includes summary tables generated during the R-based analysis:
+
+- **Final Monitoring Results:** Summarises the analytical dataset, training coverage, and overall business indicators.
+- **Final Training Results:** Compares revenue and employment indicators between businesses recorded as having received training and those recorded as having received no training.
+- **Final Size Results:** Compares business performance indicators across micro, small, and medium enterprises by training status.
+
+These outputs support the practical application of data quality assurance, monitoring, descriptive analysis, and evidence-informed decision-making in a MEAL context.
+
+**Interpretation note:** The comparisons are descriptive. Differences between training groups should not be interpreted as causal training effects because the analysis does not establish that training caused the observed differences.
+
 ## Limitations
 
 Repeated identifiers remain unresolved, county labels require final verification, and unusually high values require source-level checks. The available data do not establish a causal training effect.
