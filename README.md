@@ -69,8 +69,7 @@ Repeated identifiers remain unresolved, county labels require final verification
 The R scripts and aggregated outputs in this repository document the analytical workflow. To reproduce the analysis, obtain the source dataset, place it in the locally configured data directory, and follow the instructions in the R scripts.
 
 ## Related article
-
-[Assessing Data Quality and Business Performance in a Manufacturing MSME Dataset: A Practical MEAL Exercise]([INSERT_MEDIUM_ARTICLE_URL](https://medium.com/@iamfaradayotieno/assessing-data-quality-and-business-performance-in-a-manufacturing-msme-dataset-a-practical-meal-ee48bed1d012))
+https://medium.com/@iamfaradayotieno/assessing-data-quality-and-business-performance-in-a-manufacturing-msme-dataset-a-practical-meal-ee48bed1d012
 
 ## Author
 
